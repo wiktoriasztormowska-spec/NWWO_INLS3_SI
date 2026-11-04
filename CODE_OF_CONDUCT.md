@@ -2,7 +2,7 @@
 
 1. Celem kodeksu jest zapewnienie profesjonalnego i opartego na wzajemnym szacunku środowiska współpracy przy rozwijaniu projektu
    
-2. Zasady współpracy <br> Każdy uczestnik projektu zobowiązuje się do:
+2. Każdy uczestnik projektu zobowiązuje się do:
 - traktowania pozostałych członków zespołu z szacunkiem
 - kulturalnej i rzeczowej komunikacji
 - konstruktowego przekazywania uwag dotyczących kodu
