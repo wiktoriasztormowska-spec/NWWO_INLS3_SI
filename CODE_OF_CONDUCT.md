@@ -1,6 +1,6 @@
 # Code of Conduct - zasady postępowania
 
-1. Cel kodeksu <br> Celem kodeksu jest zapewnienie profesjonalnego i opartego na wzajemnym szacunku środowiska współpracy przy rozwijaniu projektu
+1. Celem kodeksu jest zapewnienie profesjonalnego i opartego na wzajemnym szacunku środowiska współpracy przy rozwijaniu projektu
    
 2. Zasady współpracy <br> Każdy uczestnik projektu zobowiązuje się do:
 - traktowania pozostałych członków zespołu z szacunkiem
@@ -10,12 +10,12 @@
 - terminowego realizowania zadań
 - wspierania pozostałych osó w rozwiązywaniu problemów
   
-3. Niedopuszczalne zachowania <br> W trakcie współpracy **nie tolerujemy:**
+3. W trakcie współpracy **nie tolerujemy:**
 - obrażania, wyśmiewania i dyskryminowania innych osób
 - agresywnej komunikacji i personalnych ataków
 - celowego utrudniania pracy zespołu
 
-4. Code Review <br> Podczas przeglądu kodu:
+4. Podczas przeglądu kodu (Code review):
 - oceniaj kod, a nie autora
 - formułuj uwagi w sposób konkretny
 - uzasadnij proponowane zmiany
