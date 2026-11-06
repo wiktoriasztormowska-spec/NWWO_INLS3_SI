@@ -47,7 +47,15 @@ git commit -m"docs: zaktualizuj readme.md"
 ```
   
 ## Zgłoszenia (Issues)
-...
+Zanim zgłosisz nowy problem lub propozycję, upewnij się, że podobne zgłoszenie nie zostało już otwarte.
+
+Jeśli chcesz zgłosić błąd lub zaproponować nową funkcję, postępuj zgodnie z poniższymi krokami:
+
+- **Użyj szablonu:** Jeśli dla danego typu zgłoszenia dostępny jest szablon, wypełnij go dokładnie.
+- **Opisz problem:** Jasno i zwięźle wyjaśnij, na czym polega błąd lub co chcesz zmienić.
+- **Podaj kroki do reprodukcji:** Napisz, jak wywołać błąd (krok po kroku) oraz jakie jest oczekiwane zachowanie.
+- **Dodaj szczegóły techniczne:** Jeśli to możliwe, dołącz wersję środowiska/aplikacji, logi lub zrzuty ekranu.
+- **Jedno zgłoszenie = jeden temat:** Nie łącz kilku różnych błędów lub luźnych pomysłów w jednym wpisie.**
 
 ## Pull Requests
 ...
